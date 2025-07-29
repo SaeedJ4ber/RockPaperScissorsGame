@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sun com\\OneDrive\\Desktop\\My Programs \u0026 Projects\\RockPaperScissorsGameT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{424B9429-5081-4812-BE14-33261A6F5052}|RockPaperScissorsGameT.vcxproj|C:\\Users\\sun com\\OneDrive\\Desktop\\My Programs \u0026 Projects\\RockPaperScissorsGameT\\RockPaperScissorsGameT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{424B9429-5081-4812-BE14-33261A6F5052}|RockPaperScissorsGameT.vcxproj|solutionrelative:RockPaperScissorsGameT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RockPaperScissorsGameT.cpp",
+              "DocumentMoniker": "C:\\Users\\sun com\\OneDrive\\Desktop\\My Programs \u0026 Projects\\RockPaperScissorsGameT\\RockPaperScissorsGameT.cpp",
+              "RelativeDocumentMoniker": "RockPaperScissorsGameT.cpp",
+              "ToolTip": "C:\\Users\\sun com\\OneDrive\\Desktop\\My Programs \u0026 Projects\\RockPaperScissorsGameT\\RockPaperScissorsGameT.cpp",
+              "RelativeToolTip": "RockPaperScissorsGameT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T15:53:17.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
